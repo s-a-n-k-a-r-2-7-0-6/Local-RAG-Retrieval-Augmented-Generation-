@@ -2,7 +2,7 @@
 
 ## Outputs
 
-Below are sample visualizations from the dashboard:
+Below are sample visualizations from the Notebook
 
 ![workflow](/workflow.png)
 ![output](/output(2).png)
