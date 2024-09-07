@@ -4,6 +4,6 @@
 
 Below are sample visualizations from the dashboard:
 
-![Savings Trends](/workflow.png)
-![Expenditure Analysis](/Output(2).png)
+![workflow](/workflow.png)
+![output](/output(2).png)
 
