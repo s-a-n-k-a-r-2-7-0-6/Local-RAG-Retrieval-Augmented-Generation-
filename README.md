@@ -5,5 +5,5 @@
 Below are sample visualizations from the Notebook
 
 ![workflow](/workflow.png)
-![output](/output(2).png)
+![output](/output (2).png)
 
